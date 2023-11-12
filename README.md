@@ -1,8 +1,16 @@
-# widgets_practice
+# Barvikha Restaurant
 
-A new Flutter project.
+A new Flutter project of new Barvikha Restaurant
 
 ## Getting Started
+
+So in this mobile application you can order food at the restaurant with different cuisines which are 
+deserved michelin star in Thailand, England, America, Hong Kong.
+First of all when you open an application you can see directly the menu.
+Then at the bottom of the menu you will find button to add any cuisine to the cart.
+Next, at the end of the column there will be counter of all your orders.
+
+Enjoy your meal!
 
 This project is a starting point for a Flutter application.
 
